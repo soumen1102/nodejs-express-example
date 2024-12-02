@@ -14,7 +14,7 @@
     "url": "git://github.com/buttercms/buttercms-node-example.git"
   },
   "dependencies": {
-    "buttercms": "~1.2.6",
+    "buttercms": "~2.0.0",
     "ejs": "^3.1.7",
     "express": "~4.17.3"
   },
